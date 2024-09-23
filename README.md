@@ -15,6 +15,7 @@ Make sure you have the following dependencies installed:
 
 ```bash
 pip install nltk datasets tqdm
+```
 
 You'll also need to download the required resources for nltk, which include stopwords and the WordNet lemmatizer. Run the following commands in a Python shell:
 import nltk
