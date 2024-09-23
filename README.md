@@ -21,7 +21,7 @@ import nltk
 nltk.download('stopwords')
 nltk.download('wordnet')
 
-Code Overview
+## Code Overview
 Indexer Class
 The Indexer class is responsible for:
 Loading the dataset.
