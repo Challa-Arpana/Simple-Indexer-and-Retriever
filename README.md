@@ -18,11 +18,14 @@ pip install nltk datasets tqdm
 ```
 
 You'll also need to download the required resources for nltk, which include stopwords and the WordNet lemmatizer. Run the following commands in a Python shell:
+```
 import nltk
 nltk.download('stopwords')
 nltk.download('wordnet')
+```
 
 ## Code Overview
+
 Indexer Class
 The Indexer class is responsible for:
 Loading the dataset.
